@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="20px" viewBox="0 0 300 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>FEA839AB-CE21-4C66-942A-301C884EC720</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-42.000000, -1193.000000)">
+        <g id="browser-window" transform="translate(42.000000, 1193.000000)">
+            <path d="M0,5.00754663 C0,2.24195499 2.24229097,0 5.00325107,0 L294.996749,0 C297.759968,0 300,2.23416128 300,5.00754663 L300,19.6428571 L0,19.6428571 L0,5.00754663 Z" id="Rectangle-19" fill="#F2EFEF"></path>
+            <g id="Group" transform="translate(8.496094, 7.142857)">
+                <ellipse id="Oval-1" fill="#EE6F6F" cx="2.63671875" cy="2.67857143" rx="2.63671875" ry="2.67857143"></ellipse>
+                <ellipse id="Oval-1-Copy" fill="#EEC96F" cx="12.5976562" cy="2.67857143" rx="2.63671875" ry="2.67857143"></ellipse>
+                <ellipse id="Oval-1-Copy-2" fill="#6CD847" cx="23.1445312" cy="2.67857143" rx="2.63671875" ry="2.67857143"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

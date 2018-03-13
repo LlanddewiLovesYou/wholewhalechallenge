@@ -1,0 +1,316 @@
+@font-face {
+  font-family: "Novecento wide";
+  src: url(Novecentowide-Normal.otf);
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Novecento wide";
+  src: url(Novecentowide-Bold.otf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: "Novecento wide";
+  src: url(Novecentowide-DemiBold.otf);
+  font-weight: 500;
+}
+
+/*<splash page>*/
+
+  .sky {
+  	height: 288px;
+    width: 100vw;
+    background: linear-gradient(0deg, #FFE8D9 0%, #68C7F1 100%);
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 403px 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  .waves {
+    position: absolute;
+    width: 100vw;
+    top: 268px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 43px 43px 87px 113px;
+  }
+
+  .background-waves {
+    position: absolute;
+    width: 100vw;
+    z-index: 1
+  }
+
+  .foreground-waves {
+    position: absolute;
+    width: 100vw;
+    z-index: 3
+
+  }
+
+  .logo {
+    /* position: absolute; */
+  	height: 51px;
+  	width: 351px;
+    justify-self: center;
+    grid-column: 2 / 3;
+    margin-top: 38px;
+
+  }
+
+  .ship {
+    /* position: absolute; */
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+    justify-self: end;
+    z-index: 2;
+    height: 126.42px;
+    width: 170.71px;
+  }
+
+  .iceberg {
+    /* position: absolute; */
+    grid-column: 3 / 4;
+    grid-row: 3 / 4;
+  	height: 126.42px;
+  	width: 217.71px;
+
+  }
+
+  .splash-title {
+    /* position: absolute; */
+  	height: 37px;
+  	width: auto;
+  	color: #FFFFFF;
+  	font-family: "Novecento wide";
+  	/* font-family: "Open Sans"; */
+  	font-size: 30px;
+  	font-weight: bold;
+  	letter-spacing: 1px;
+  	line-height: 32px;
+    justify-self: center;
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    z-index: 10
+  }
+
+  .splash-copy {
+    /* position: absolute; */
+  	height: 81px;
+  	width: 776px;
+  	color: #FFFFFF;
+  	font-family: "Open Sans";
+  	font-size: 20px;
+  	font-weight: 300;
+  	line-height: 27px;
+  	text-align: center;
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
+    z-index: 10
+  }
+
+  .dive-in-button {
+  	height: 50px;
+  	width: 177px;
+  	border-radius: 1px;
+  	background-color: #2FB1EB;
+  	color: #FFFFFF;
+  	font-family: "Novecento wide";
+  	font-size: 15px;
+  	font-weight: 500;
+  	line-height: 18px;
+  	text-align: center;
+    grid-column: 2 / 3;
+    grid-row: 4 / 4;
+    z-index: 10;
+    align-self: center;
+    justify-self: center
+
+  }
+
+/*</splash page>*/
+
+/* <services page> */
+
+  .services-page {
+    position: absolute;
+    height: 500px;
+    width: 100vw;
+    background-color: #C8EEF9;
+    top: 555px;
+    z-index: 11;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 25% 25% 25% 25%;
+  }
+
+  .diver {
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+    justify-self: center;
+    z-index: 14;
+  }
+
+  .bubbles {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    justify-self: center;
+    align-self: end;
+    margin-left: 250px
+
+  }
+
+  .rays-left {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    justify-self: center;
+
+  }
+
+  .rays-right {
+    grid-column: 2 / 2;
+    grid-row: 1 / 2;
+    justify-self: center;
+
+  }
+
+
+  .title {
+  	height: 45px;
+  	width: 178px;
+  	color: #4A4A4A;
+  	font-family: "Novecento wide";
+  	font-size: 36px;
+  	font-weight: bold;
+  	line-height: 45px;
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    align-self: end;
+  }
+
+  .sub-title {
+  	height: 25px;
+  	width: 461px;
+  	color: #4A4A4A;
+  	font-family: "Novecento wide";
+  	font-size: 18px;
+  	font-weight: 500;
+  	line-height: 25px;
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    align-self: center;
+  }
+
+  .copy {
+  	height: 108px;
+  	width: 461px;
+  	color: #4A4A4A;
+  	font-family: "Open Sans";
+  	font-size: 20px;
+  	font-weight: 300;
+  	line-height: 27px;
+    grid-column: 2 / 3;
+    grid-row: 3 / 4
+  }
+
+  .services-button {
+  	height: 50px;
+  	width: 279px;
+  	border: 1px solid #0D77B8;
+  	border-radius: 1px;
+    z-index: 12;
+    color: #0D77B8;
+    font-family: "Novecento wide";
+    font-weight: bold;
+    align-self: center;
+    grid-column: 2 / 3
+  }
+
+
+/* </services page> */
+
+/* <resources page> */
+
+  .resources-page {
+    position: absolute;
+    top: 1055px;
+    height: 500px;
+  	max-height: 500px;
+  	width: 100vw;
+  	background-color: #2FB1EB;
+    display: grid;
+    grid-template-columns: 50% 461px 1fr;
+    grid-template-rows: 25% 25% 25% 25%;
+    z-index: 30;
+  }
+
+  .resources-page h2 {
+    color: #FFFFFF
+  }
+  .resources-page h3 {
+    color: #FFFFFF
+  }
+  .resources-page .title {
+    color: #FFFFFF
+  }
+
+  .element-background {
+  	height: 396px;
+  	width: 300px;
+  	background-color: #FFFFFF;
+    grid-columns: 1 / 2;
+    grid-row: 4;
+    align-self: end;
+    justify-self: center;
+  }
+
+  .element-foreground {
+  	height: 122px;
+  	width: 300px;
+  }
+
+  .element-copy {
+  	height: 81px;
+  	width: 258px;
+  	color: #4A4A4A;
+  	font-family: "Open Sans";
+  	font-size: 20px;
+  	font-weight: 300;
+  	line-height: 27px;
+    margin-left: 21px;
+    margin-top: 52px;
+  }
+
+  .steps {
+  	width: 300px;
+  	background-color: #2FB1EB;
+    margin-top: 65px;
+  }
+
+  .school {
+    grid-column: 3;
+    grid-row: 4;
+    justify-self: center;
+  }
+
+  .resources-button {
+  	height: 50px;
+  	width: 361px;
+  	border: 1px solid #FFFFFF;
+  	border-radius: 1px;
+    color: #FFFFFF;
+    font-family: "Novecento wide";
+    font-weight: bold;
+    grid-column: 2 / 3;
+    grid-row: 4 / 5;
+    align-self: center;
+
+  }
+
+
+
+
+
+
+
+/* </resources page> */

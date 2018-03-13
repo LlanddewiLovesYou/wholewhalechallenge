@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="113px" height="213px" viewBox="0 0 113 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>A42BBCF0-85C0-4867-9F73-D3078CFD5D4C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="7.215625%" x2="50%" y2="43.0377347%" id="linearGradient-1">
+            <stop stop-color="#D0F4FF" offset="0%"></stop>
+            <stop stop-color="#DDFCFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="7.215625%" x2="50%" y2="41.8028254%" id="linearGradient-2">
+            <stop stop-color="#D0F4FF" offset="0%"></stop>
+            <stop stop-color="#DDFCFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-865.000000, -612.000000)">
+        <g id="light-rays-right" transform="translate(865.000000, 612.000000)">
+            <polygon id="Rectangle-17-Copy-2" fill="url(#linearGradient-1)" points="22 2.74225087e-14 38.5475763 0 212 494 195.452424 494"></polygon>
+            <polygon id="Rectangle-17-Copy-3" fill="url(#linearGradient-2)" points="0 0 5.57347772 0 179 494 173.426522 494"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="141px" height="123px" viewBox="0 0 141 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>30C02CEB-68C1-48DA-8307-EA001045EB11</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-121.000000, -2618.000000)">
+        <g id="Group-5" transform="translate(0.000000, 2113.000000)">
+            <g id="treasure" transform="translate(189.000000, 566.500000) rotate(-17.000000) translate(-189.000000, -566.500000) translate(127.000000, 519.000000)">
+                <rect id="Rectangle-6" fill="#0D6093" x="0" y="25.3333333" width="124" height="66.5"></rect>
+                <ellipse id="Oval" fill="#0A527E" cx="62.3974359" cy="47.8958333" rx="7.55128205" ry="7.52083333"></ellipse>
+                <polygon id="Rectangle-7" fill="#0A527E" points="64.7183994 53.8333333 66.6419271 64.125 57.2307692 64.125 59.1542969 53.8333333"></polygon>
+                <path d="M62,0.791666667 L110.305941,0.791666667 C110.305941,0.791666667 124,6.55690586 124,25.1867284 L62,25.1867284 L0,25.1867284 C0,6.55690586 13.6940586,0.791666667 13.6940586,0.791666667 L62,0.791666667 Z" id="Combined-Shape" fill="#174662"></path>
+                <g id="Group-3" transform="translate(23.051282, 0.000000)" stroke="#0A527E" stroke-linecap="square" stroke-width="10">
+                    <path d="M3.97435897,0.56547619 L3.97435897,94.4617726" id="Line"></path>
+                    <path d="M73.9230769,0.56547619 L73.9230769,94.4617726" id="Line-Copy-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
